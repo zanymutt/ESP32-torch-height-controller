@@ -1,3 +1,5 @@
-The Zanymutt Torch Height Controller is an ESP32 based THC for a plasma cutter.  The ESP32 providing main THC control connects directly to the CNC microprocessor (I currently use FLUIDNC on an ESP32, but GRBLHAL will also work).  The display is an ESP32 powered touchscreen which communicates wirelessly to the mainc THC ontrol ESP32.
+The Zanymutt Torch Height Controller is an ESP32 based THC for a plasma cutter.  
+
+The ESP32 providing main THC control connects directly to the CNC microprocessor (I currently use FLUIDNC on an ESP32, but GRBLHAL will also work).  The display is an ESP32 powered touchscreen which communicates wirelessly to the mainc THC ontrol ESP32.
 
 All settings are done via the touchscreen, and can be loaded from or saved to a micro SD card.  In addition, data can be logged to the SD Card in a .csv file for future review.  It's easily graphed in Google Sheets. Data capture rates up to about 50 samples per second are possible.  The THC actually operates at about 80-90 samples per second.
