@@ -5,3 +5,5 @@ The ESP32 providing main THC control connects directly to the CNC microprocessor
 All settings are done via the touchscreen, and can be loaded from or saved to a micro SD card.  In addition, data can be logged to the SD Card in a .csv file for future review.  It's easily graphed in Google Sheets. Data capture rates up to about 50 samples per second are possible.  The THC actually operates at about 80-90 samples per second.
 
 Check out the videos: https://www.youtube.com/playlist?list=PL93DAh7yrx1V5jKg87dKKhgWCPN1E5ksG
+Discord: https://discord.gg/45dN36GZ
+
